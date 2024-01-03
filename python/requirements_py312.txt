@@ -1,0 +1,11 @@
+numpy
+pandas
+pillow
+tqdm
+scipy
+SimpleCV
+compress_pickle
+openpyxl
+pyautogui
+pywinauto
+rpa

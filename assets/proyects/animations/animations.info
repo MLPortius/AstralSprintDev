@@ -1,0 +1,6 @@
+animation;id;dir
+character_standby_common;anim_00000;\assets\proyects\animations\character\standby\common\
+character_standby_astral;anim_00001;\assets\proyects\animations\character\standby\astral\
+character_standby_rainbow;anim_00002;\assets\proyects\animations\character\standby\rainbow\
+character_standby_fire;anim_00003;\assets\proyects\animations\character\standby\fire\
+character_standby_ghost;anim_00004;\assets\proyects\animations\character\standby\ghost\
